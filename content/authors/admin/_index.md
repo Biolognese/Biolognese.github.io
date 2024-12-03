@@ -30,7 +30,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: brands/gmail
+  - icon: at-symbol
     url: 'mailto:contact.ahidayat@gmail.com'
     label: E-mail Me
   - icon: brands/x
@@ -99,8 +99,8 @@ work:
     company_name: Jenderal Soedirman University - Biology Faculty
     company_url: 'https://unsoed.ac.id/'
     company_logo: 'assets/media/company_logo/fabiologo.jpg'
-    date_start: 2019-03
-    date_end: 2021-09
+    date_start: 2019-03-01
+    date_end: 2021-09-01
     summary: |
       Responsibilities include:
       - Preparing bacterial cultures, growth mediums, and essential tools and materials to ensure a well-equipped and efficient laboratory environment.
