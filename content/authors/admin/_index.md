@@ -56,7 +56,7 @@ education:
     institution: 'Universitas Jenderal Soedirman'
     date_start: 2017
     date_end: 2021
-    summary: |
+    summary: 
       Thesis on _Actinomycetes metabolite activity & mechanism against pathogenic _Klebsiella pneumoneae__. Supervised by [Dr. Dini Ryandini, M.Si.](https://sinelitabmas.unsoed.ac.id/profile-peneliti/gos?id=6021630).
       GPA: 3.87/4.0
 
@@ -120,7 +120,7 @@ skills:
         description: ''
         percent: 85
         icon: chart-bar
-      - name: Next-Generation Sequencing - Metagenomics
+      - name: Metagenomics Analysis
         description: ''
         percent: 80
         icon: circle-stack
